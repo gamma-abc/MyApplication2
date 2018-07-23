@@ -6,6 +6,18 @@
     android:layout_height="match_parent"
     android:background="#fffeec "
     tools:context=".MainActivity">
+    <Button
+        android:id="@+id/bt_4"
+        android:layout_width="match_parent"
+        android:layout_margin="20dp"
+        android:layout_below="@id/text_1"
+        android:layout_height="60dp"
+        android:textColor="#F4D03F"
+        android:text="按钮3"
+        android:textSize="24sp"
+        android:background="@drawable/bg_btn4"
+        android:layout_marginTop="40dp"
+        />
     <View
         android:id="@+id/view_1"
         android:layout_width="280dp"
