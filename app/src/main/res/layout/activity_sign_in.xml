@@ -58,8 +58,7 @@
         android:background="@drawable/bg_btn3"
         />
     <TextView
-        android:id="@+id/btn_find_user"
-        android:layout_width="70dp"
+         android:layout_width="70dp"
         android:layout_height="30dp"
         android:layout_marginLeft="30dp"
         android:layout_below="@id/logon_password"
