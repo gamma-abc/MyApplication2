@@ -6,9 +6,6 @@
     android:layout_height="match_parent"
     android:background="#fffeec "
     tools:context=".MainActivity">
-/**
- *在Github上写的注释
-*/
     <View
         android:id="@+id/view_1"
         android:layout_width="280dp"
