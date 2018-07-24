@@ -6,7 +6,7 @@
     android:padding="15dp">
 
     <!--这是在本地的注释-->
-    <!--这是在本地的注释-->
+    <!--这是在GitHub上的注释-->
     <EditText
         android:id="@+id/logon_user"
         android:layout_width="match_parent"
